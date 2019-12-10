@@ -1,0 +1,16 @@
+[
+    {
+      "constant": false,
+      "inputs": [
+        {
+          "name": "newValue",
+          "type": "string"
+        }
+      ],
+      "name": "add",
+      "outputs": [],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ]
