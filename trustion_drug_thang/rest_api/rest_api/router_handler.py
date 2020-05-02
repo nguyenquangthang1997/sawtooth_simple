@@ -41,7 +41,7 @@ from protobuf import user_pb2
 from jsonschema import validate
 from jsonschema import ValidationError
 
-from rest_api.ipfs_services.main import *
+#from rest_api.ipfs_services.main import *
 
 LOGGER = logging.getLogger(__name__)
 
